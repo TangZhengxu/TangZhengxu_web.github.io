@@ -9,8 +9,7 @@ layout: page
 
 Hi! This is **Zhengxu Tang (唐正旭)**.
 
-I am a senior student double majoring in **Mathematics Science** & **Computer Science** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the **IACTIP Lab**, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). 
-
+I am a senior student double majoring in **Mathematics Science** & **Computer Science** at University of Michigan. Currently, I'm working as a research assistant in the **Bio-Medical Lab**, advised by [Prof. Liyue Shen](https://liyueshen.engin.umich.edu/). Previously, I work as a research assistant in the **Li Lab**, advised by[Prof. Jinxing Li](https://www.labli.net/).
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
 <br>
