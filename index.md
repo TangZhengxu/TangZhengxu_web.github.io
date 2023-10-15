@@ -6,7 +6,8 @@ layout: page
 
 <img src="/images/zhengxu.JPG" >
 
-Here is **Zhengxu Tang (唐正旭)**.
+
+Hi! This is **Zhengxu Tang (唐正旭)**.
 
 I am a senior student double majoring in **Mathematics Science** & **Computer Science** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the **IACTIP Lab**, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). 
 
