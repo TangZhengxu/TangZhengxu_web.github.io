@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://zhengxutang.com/zhengxu.jpg" class="floatpic" width="360" height="480">
+<img src="/images/zhengxu.JPG">
 
 Here is **Zhengxu Tang (唐正旭)**.
 
