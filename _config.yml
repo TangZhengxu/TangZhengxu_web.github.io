@@ -38,14 +38,18 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Fundings
-    url: /fundings/
+ # - title: Publications
+ #   url: /publications/
+ # - title: Awards
+ #   url: /awards/
+ # - title: Fundings
+ #   url: /fundings/
   - title: Hobbies
     url: /hobbies/
+  - title: Food
+    url: /food/
+  - title: Pictures
+    url: /picture/
  # - title: Blogs
  #   url: /blogs/
 
