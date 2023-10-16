@@ -11,8 +11,6 @@ Hi! My name is **Zhengxu Tang (唐正旭)**.
 
 I am currently a senior at the University of Michigan, pursuing a double major in **Mathematical Sciences - Operations Research and Modeling** and **Computer Science**. At present, I'm engaged as a research assistant in the **Bio-Medical AI Lab**, under the guidance of [Dr. Liyue Shen](https://liyueshen.engin.umich.edu/). Previously, I worked in the **Li Lab**, mentored by [Dr. Jinxing Li](https://www.labli.net/).
 
-My research interests lie in the brain-computer interface, electrophysiological sensing, and bio-electronic research.
-
 Should you share similar interests or consider potential collaboration, please feel free to reach out to me at **tangzx@umich.edu**. I'd love to engage in discussions and explore opportunities for collaboration.
 
 
