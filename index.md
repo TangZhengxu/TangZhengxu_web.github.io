@@ -7,22 +7,24 @@ layout: page
 <img src="/images/WechatIMG1166.jpg" class="floatpic" width="360" height="480">
 
 
-Hi! This is **Zhengxu Tang (唐正旭)**.
-I am a senior student double majoring in **Mathematics Science** & **Computer Science** at University of Michigan. Currently, I'm working as a research assistant in the **Bio-Medical Lab**, advised by [Dr. Liyue Shen](https://liyueshen.engin.umich.edu/). Previously, I work as a research assistant in the **Li Lab**, advised by [Dr. Jinxing Li](https://www.labli.net/).
+Hi! My name is **Zhengxu Tang (唐正旭)**.
 
-I am interested in brain-computer interface, electrophysiological sensing and bio-electronic researches.
+I am currently a senior at the University of Michigan, pursuing a double major in **Mathematical Sciences - Operations Research and Modeling** and **Computer Science**. At present, I'm engaged as a research assistant in the **Bio-Medical Lab**, under the guidance of [Dr. Liyue Shen](https://liyueshen.engin.umich.edu/). Previously, I worked in the **Li Lab**, mentored by [Dr. Jinxing Li](https://www.labli.net/).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - **tangzx@umich.edu**
+My research interests lie in the brain-computer interface, electrophysiological sensing, and bio-electronic research.
+
+Should you share similar interests or consider potential collaboration, please feel free to reach out to me at **tangzx@umich.edu**. I'd love to engage in discussions and explore opportunities for collaboration.
+
 
 <br>
 
 ## Academic Background
 
 
-- **Sep 2022 - June 2025:** University of Michigan
+- **Sep 2022 - current:** University of Michigan
+- **Sep 2023 - Current:** University of Michigan Bio-Medical Lab (Research Assistant)
 - **Sep 2020 - June 2022:** Michigan State University
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year Mphil program and graduate in 2025. Looking for PhD position after that.
+- **June 2020 - Aug 2023:** Michigan State University Li lab (Research Assistant)
 
 <br>
 
@@ -30,11 +32,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
+- AI for Bio-Medical
+- Multimodal representation learning
+- AI for Brain-Computer Interface
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on building a foundational multimodal model based on multiple types of medical data, such as medical images, genomics data, EHRs, and so on. I am particularly interested in Multimodal Learning and its applications in the Biomedical field. Human process various modes of information—including sight, sound, smell, and touch—constantly, and this information shapes our cognition and understanding of the world. Everything is interconnected. For this reason, I firmly believe that multimodal deep learning models are the most effective tools for addressing biomedical problems. I am committed to devoting my skills and expertise to this meaningful endeavor, with the aim of contributing to societal well-being.
 
 <br>
 

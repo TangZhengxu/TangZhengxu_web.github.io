@@ -10,7 +10,7 @@ owner:
   avatar: zhengxu.jpg
  # bio:
   email: tangzx@umich.edu
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
 
   github: TangZhengxu
@@ -46,8 +46,8 @@ links:
     url: /fundings/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+ # - title: Blogs
+ #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/New_York
