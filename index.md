@@ -21,7 +21,7 @@ Should you share similar interests or consider potential collaboration, please f
 ## Academic Background
 
 
-- **Sep 2022 - current:** University of Michigan
+- **Sep 2022 - Current:** University of Michigan
 - **Sep 2023 - Current:** University of Michigan Bio-Medical Lab (Research Assistant)
 - **Sep 2020 - June 2022:** Michigan State University
 - **June 2020 - Aug 2023:** Michigan State University Li lab (Research Assistant)
