@@ -8,20 +8,19 @@ layout: page
 
 
 Hi! This is **Zhengxu Tang (唐正旭)**.
-I am a senior student double majoring in **Mathematics Science** & **Computer Science** at University of Michigan. Currently, I'm working as a research assistant in the **Bio-Medical Lab**, advised by [Dr. Liyue Shen](https://liyueshen.engin.umich.edu/). Previously, I work as a research assistant in the **Li Lab**, advised by[Dr. Jinxing Li](https://www.labli.net/).
+I am a senior student double majoring in **Mathematics Science** & **Computer Science** at University of Michigan. Currently, I'm working as a research assistant in the **Bio-Medical Lab**, advised by [Dr. Liyue Shen](https://liyueshen.engin.umich.edu/). Previously, I work as a research assistant in the **Li Lab**, advised by [Dr. Jinxing Li](https://www.labli.net/).
 
 I am interested in brain-computer interface, electrophysiological sensing and bio-electronic researches.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *tangzx[at]umich[dot]edu*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - **tangzx@umich.edu**
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
+- **Sep 2022 - June 2025:** University of Michigan
+- **Sep 2020 - June 2022:** Michigan State University
 - **June 2022 - Nov 2022:** Cambridge University (Intern)
 - Expect to apply for a one-year Mphil program and graduate in 2025. Looking for PhD position after that.
 
