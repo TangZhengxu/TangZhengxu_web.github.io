@@ -6,49 +6,41 @@ title: Hobbies
 
 # Hobbies
 
-## Teaching & Workshops
+## Custom Keyboard
 
 <div class="third">
 <img src="/images/WechatIMG1168.jpg">
 <img src="/images/WechatIMG1171.jpg">
 <img src="/images/WechatIMG1175.jpg">  
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
-
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
+<br>Part of my collections. I love to build my own keyboard. Building something new from scratch always gives me a sense of accomplishment. I have recently been teaching myself some knowledge about embedded, hoping to truly design my own keyboard from scratch.
 
 
 
-## Swimming & Surfing
+
+## Making model
+
+<div class="half">
+<img src="/images/WechatIMG1168.jpg">
+<img src="/images/WechatIMG1176.jpg">
+
+</div>
+<br>I'm an avid enthusiast of Gundam and Patlabor. The process of assembling and painting the models brings me immense satisfaction, as I see the robots from the animations materialize before me.
+
+
+## Riding
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/WechatIMG1185.jpg">
+<img src="/images/WechatIMG1173.jpg">
+<img src="/images/WechatIMG1159.jpg">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my swimming career. Recently, I am also keen on surfing.
 
-## Past Hobbies
+<br> The bike serves as more than merely a tool for my daily commute. Every weekend, I relish the opportunity to embark on brief excursions to the suburbs by bike. It's there that the crisp air and stunning vistas provide a deep sense of relaxation.
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
 
-## My Cat
 
-This is my love. Her name is Qbo (Q宝).
 
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
 
-## Chat with me
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
 

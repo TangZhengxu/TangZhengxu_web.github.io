@@ -46,10 +46,10 @@ links:
  #   url: /fundings/
   - title: Hobbies
     url: /hobbies/
-  - title: Food
-    url: /food/
-  - title: Pictures
-    url: /picture/
+#  - title: Food
+#    url: /food/
+#  - title: Pictures
+#    url: /picture/
  # - title: Blogs
  #   url: /blogs/
 
